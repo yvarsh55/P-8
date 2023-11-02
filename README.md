@@ -1,6 +1,6 @@
 # Vision Document: Our Digital Platform for Personalized Entertainment.
 
-## Introduction:*
+## Introduction:
 Our digital platform envisions transforming the way individuals discover and engage with entertainment media. By harnessing the synergy between artificial intelligence and human expertise, we aim to offer a tailored and immersive experience for book and movie enthusiasts. Our vision is to create a dynamic, user-centric ecosystem that promotes exploration, diversity, and accuracy in recommendations.
 
 ## Key Objectives:
